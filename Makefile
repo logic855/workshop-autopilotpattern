@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-.PHONY: build ship test
+.PHONY: build ship test help
 
 ## Display this help message
 help:
